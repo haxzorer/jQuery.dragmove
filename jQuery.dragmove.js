@@ -1,5 +1,5 @@
 // Draggable functionality for DOM elements
-// Source: github.com/NathanRutzky/jQuery.dragmove
+// Source: github.com/ByNathan/jQuery.dragmove
 // Version: 1.0
 
 (function($) {
@@ -57,7 +57,7 @@
                 
                 active = false;
                 
-            });		
+            });
                                 
         });
             

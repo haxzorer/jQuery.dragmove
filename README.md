@@ -19,13 +19,13 @@ $(function() {
 });
 ```
 
-**Live Demo:** [code.nath.co/dragmove](http://code.nath.co/dragmove)
+**Demo:** [code.bynathan.com/dragmove](http://code.bynathan.com/dragmove)
 
 ## Browser Support
 – Google Chrome  
 – Safari ( Desktop and Mobile )  
-– Internet Explorer ( 9, 10, 11 )  
+– Internet Explorer ( 8, 9, 10+ )  
 – Firefox 
 
 ## Feedback
-If you discover any issues or have questions regarding usage, please send a message to [mail@nath.co](mailto:mail@nath.co) or find me on twitter [@NathanRutzky](http://twitter.com/NathanRutzky).
+If you discover any issues or have questions regarding usage, please send a message to [mail@bynathan.com](mailto:mail@bynathan.com) or find me on twitter [@ByNathan](http://twitter.com/ByNathan).
