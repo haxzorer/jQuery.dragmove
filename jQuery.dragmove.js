@@ -49,6 +49,10 @@
             });
             
             $document.on('mousemove touchmove', function(e) {
+                if (isChromeMobile) {
+                    e.preventDefault();
+                }
+
                 if (active) {
                     var newPos = getNewPosition(e);
                 }
