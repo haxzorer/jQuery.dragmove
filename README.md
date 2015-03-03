@@ -20,6 +20,19 @@ $(function() {
 });
 ```
 
+To restrict the movement to a specific region:
+
+```javascript
+$(function() {  
+
+    // All div elements inside a wrapper
+    $('.wrapper div').dragmove({
+        regionDiv: $('.wrapper')
+    });
+
+});
+```
+
 **CSS ( Optional )**
 ```css
 div {
