@@ -49,7 +49,7 @@
             });
             
             $document.on('mousemove touchmove', function(e) {
-                if (isChromeMobile) {
+                if (isChromeMobile && active) {
                     e.preventDefault();
                 }
 
